@@ -74,6 +74,8 @@ namespace Challenge___5_Pet_Registry_API.Services
             existing.IsAdopted = item.IsAdopted;
             existing.IsDeleted = item.IsDeleted;
 
+            _db.SaveChanges();
+            
             return true;
         }
         public bool Delete(int id)

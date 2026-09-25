@@ -20,7 +20,7 @@ namespace Challenge___5_Pet_Registry_API.Controllers
         public ActionResult<List<Pet>> GetAll()
         {
             List<Pet> pets = _pet.GetAll();
-            
+
 
             return Ok(pets);
         }
@@ -72,7 +72,7 @@ namespace Challenge___5_Pet_Registry_API.Controllers
             }
 
             return Ok($"You have adopted pet {id}");
-        }
+        }   
 
         [HttpDelete("delete/{id}")]
         public ActionResult <bool> DeletePet (int id)

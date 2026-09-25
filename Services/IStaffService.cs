@@ -9,6 +9,7 @@ namespace Challenge___5_Pet_Registry_API.Services
     public interface IStaffService
     {
         List<Staff> GetAll();
+        List<Staff>GetWorking();
         Staff GetById(int id);
         Staff Create(Staff staff);
         Staff Patch (int id, Staff changes);

@@ -27,6 +27,14 @@ namespace Challenge___5_Pet_Registry_API.Controllers
 
             return Ok(staff);
         }
+
+        [HttpGet("working")]
+        public ActionResult<List<Staff>> GetWorking()
+        {
+            List<Staff> staff = _staff.GetWorking();
+
+            return Ok(staff);
+        }
         [HttpPost("create")]
 
         public ActionResult<Staff> Create([FromBody] Staff newStaff)

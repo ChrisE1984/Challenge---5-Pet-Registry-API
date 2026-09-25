@@ -19,6 +19,11 @@ namespace Challenge___5_Pet_Registry_API.Services
         {
             return _db.Staff.ToList();
         }
+
+         public List<Staff> GetWorking()
+        {
+            return _db.Staff.Where(staff => staff.IsWorking == true && staff.IsWorking !=false).ToList();
+        }
         public Staff Create(Staff newStaff)
         {
             newStaff.Id = 0;
