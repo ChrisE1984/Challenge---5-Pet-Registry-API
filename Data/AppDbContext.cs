@@ -16,5 +16,6 @@ namespace Challenge___5_Pet_Registry_API.Data
 
         //this IS the Students table as  far as our C# code is concerned
         public DbSet<Pet> Pets {get; set;}
+        public DbSet<Staff> Staff {get; set;}
     }
 }

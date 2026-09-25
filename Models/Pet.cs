@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace Challenge___5_Pet_Registry_API.Models
 {
-    public class Pet
+    public class Pet : BaseEntity
     {
-            public int Id {get; set;}
+    
             public string Name {get; set;}
             public string Species {get; set;}
             public string Breed {get; set;}

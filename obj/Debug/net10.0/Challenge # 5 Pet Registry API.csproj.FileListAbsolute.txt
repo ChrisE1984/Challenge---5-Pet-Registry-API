@@ -9,7 +9,6 @@ C:\Users\cestr\Desktop\Homework\Challenge # 5 Pet Registry API\obj\Debug\net10.0
 C:\Users\cestr\Desktop\Homework\Challenge # 5 Pet Registry API\bin\Debug\net10.0\appsettings.Development.json
 C:\Users\cestr\Desktop\Homework\Challenge # 5 Pet Registry API\bin\Debug\net10.0\appsettings.json
 C:\Users\cestr\Desktop\Homework\Challenge # 5 Pet Registry API\bin\Debug\net10.0\Challenge # 5 Pet Registry API.staticwebassets.endpoints.json
-C:\Users\cestr\Desktop\Homework\Challenge # 5 Pet Registry API\bin\Debug\net10.0\Challenge # 5 Pet Registry API.exe
 C:\Users\cestr\Desktop\Homework\Challenge # 5 Pet Registry API\bin\Debug\net10.0\Challenge # 5 Pet Registry API.deps.json
 C:\Users\cestr\Desktop\Homework\Challenge # 5 Pet Registry API\bin\Debug\net10.0\Challenge # 5 Pet Registry API.runtimeconfig.json
 C:\Users\cestr\Desktop\Homework\Challenge # 5 Pet Registry API\bin\Debug\net10.0\Challenge # 5 Pet Registry API.dll
@@ -145,3 +144,12 @@ C:\Users\cestr\Desktop\Homework\Challenge # 5 Pet Registry API\obj\Debug\net10.0
 C:\Users\cestr\Desktop\Homework\Challenge # 5 Pet Registry API\obj\Debug\net10.0\Challenge # 5 Pet Registry API.pdb
 C:\Users\cestr\Desktop\Homework\Challenge # 5 Pet Registry API\obj\Debug\net10.0\Challenge # 5 Pet Registry API.genruntimeconfig.cache
 C:\Users\cestr\Desktop\Homework\Challenge # 5 Pet Registry API\obj\Debug\net10.0\ref\Challenge # 5 Pet Registry API.dll
+C:\Users\cestr\Desktop\Homework\Challenge # 5 Pet Registry API\obj\Debug\net10.0\Challenge # 5 Pet Registry API.sourcelink.json
+C:\Users\cestr\Desktop\Homework\Challenge # 5 Pet Registry API\bin\Debug\net10.0\Challenge # 5 Pet Registry API.exe
+C:\Users\cestr\AppData\Local\Temp\pet-registry-verify\appsettings.Development.json
+C:\Users\cestr\AppData\Local\Temp\pet-registry-verify\appsettings.json
+C:\Users\cestr\AppData\Local\Temp\pet-registry-verify\Challenge # 5 Pet Registry API.staticwebassets.endpoints.json
+C:\Users\cestr\AppData\Local\Temp\pet-registry-verify\Challenge # 5 Pet Registry API.deps.json
+C:\Users\cestr\AppData\Local\Temp\pet-registry-verify\Challenge # 5 Pet Registry API.runtimeconfig.json
+C:\Users\cestr\AppData\Local\Temp\pet-registry-verify\Challenge # 5 Pet Registry API.dll
+C:\Users\cestr\AppData\Local\Temp\pet-registry-verify\Challenge # 5 Pet Registry API.pdb

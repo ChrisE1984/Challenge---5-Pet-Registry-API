@@ -11,9 +11,11 @@ namespace Challenge___5_Pet_Registry_API.Services
         List<Pet> GetAll();
         Pet GetById(int id);
         Pet Create(Pet pet);
-        bool Adopt(int id, Pet pet);
+        bool Adopt(int id);
         bool Update(int id, Pet pet);
         bool Delete(int id);
-        bool Restore(int id);
+        Pet Patch (int id, Pet pet);
+        Pet Replace (int id, Pet pet);
+       
     }
 }
